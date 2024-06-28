@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Udemy Regular' ;
+    src: url(/public/assets/fonts/Udemy-Sans-Regular-v1.woff2);
+}
+
+@font-face {
+    font-family: 'Udemy Bold' ;
+    src: url(/public/assets/fonts/Udemy-Sans-Bold-v1.woff2);
+}
+
+@font-face {
+    font-family: 'Suisse' ;
+    src: url(/public/assets/fonts/SuisseWorks-Bold-v1.woff2);
+}
+
+@font-face {
+    font-family: 'Pxi' ;
+    src: url(/public/assets/fonts/pxiEyp8kv8JHgFVrJJfecg.woff2);
+}
